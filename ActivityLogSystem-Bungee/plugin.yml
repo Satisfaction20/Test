@@ -1,0 +1,13 @@
+main: de.ragecraft.activitylogsystem.Main
+name: ActivityLog-System
+version: 1.0
+description: This plugin is content of the RageCraft-Network.
+author: Alex
+website: www.ragecraft.de
+prefix: ActivityLog-System
+commands:
+ activitylog:
+  desctiption: Show Activitylog
+permissions:
+ activitylogsystem.use:
+  description: Show Activitylog
